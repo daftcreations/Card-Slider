@@ -63,15 +63,5 @@ $(document).ready(function(){
             $("#side3").css("transform","translateX(100px)");
             flag=1;
         }
-    });
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    });    
 });
